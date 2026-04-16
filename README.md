@@ -68,31 +68,6 @@ The dataset typically contains:
 
 ---
 
-## ⚙️ Installation
-
-### 1️⃣ Clone the Repository
-
-```bash
-git clone https://github.com/your-username/text-summarizer-nlp.git
-cd text-summarizer-nlp
-```
-
-### 2️⃣ Install Dependencies
-
-```bash
-pip install -r requirements.txt
-```
-
----
-
-## ▶️ Run the Application
-
-```bash
-streamlit run app.py
-```
-
----
-
 ## 📦 Requirements
 
 Your project uses the following libraries:
@@ -104,10 +79,6 @@ numpy
 nltk
 scikit-learn
 ```
-
-(From your file: )
-
----
 
 ## 🧪 Algorithms Used
 
@@ -123,7 +94,9 @@ scikit-learn
 ## 📸 Screenshots
 
 <img width="1911" height="915" alt="Screenshot 2026-04-16 225006" src="https://github.com/user-attachments/assets/76e29b31-56cc-4e8e-a566-2af97100fc54" />
+<br><br>
 <img width="1919" height="907" alt="Screenshot 2026-04-16 225033" src="https://github.com/user-attachments/assets/c72d59c8-c00d-487c-9e7a-43d3487c1543" />
+<br><br>
 <img width="1364" height="885" alt="Screenshot 2026-04-16 225116" src="https://github.com/user-attachments/assets/9eaf6170-6dda-46a1-821e-451d7d728335" />
 
 ---
